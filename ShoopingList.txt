@@ -6,3 +6,5 @@ cherries
 Carrots
 Oranges
 cereal
+potatos
+tomatos
