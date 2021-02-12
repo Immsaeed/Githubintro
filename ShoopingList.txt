@@ -8,4 +8,4 @@ Oranges
 cereal
 potatos
 tomatos
-walnuts
+English walnuts
